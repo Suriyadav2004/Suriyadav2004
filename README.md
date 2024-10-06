@@ -1,4 +1,4 @@
-![MasterHead](https://i.makeagif.com/media/1-23-2020/qSzg3R.gif)
+![MasterHead](https://i.pinimg.com/originals/c3/16/27/c3162775635d404d6462187ea4b5941f.gif)
 <h1 align="center">Hi 👋, I'm Suriyadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
